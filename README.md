@@ -27,3 +27,6 @@
 
 ### Screeny z wyników
 → folder `screenshots`
+
+### Live Dashboard
+👉 [View Dashboard on Tableau Public] https://public.tableau.com/views/E-CommerceSalesDashboard_17768047581190/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
